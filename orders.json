@@ -1,0 +1,58 @@
+{
+    "1001": {
+        "name": "Krishna",
+        "product": "Apple",
+        "qty": 10,
+        "price": 25.0,
+        "total": 250.0,
+        "status": "Delivered"
+    },
+    "1002": {
+        "name": "Rahul",
+        "product": "Banana",
+        "qty": 5,
+        "price": 15.0,
+        "total": 75.0,
+        "status": "Delivered"
+    },
+    "1003": {
+        "name": "Ankit",
+        "product": "Chips",
+        "qty": 3,
+        "price": 40.0,
+        "total": 120.0,
+        "status": "Placed"
+    },
+    "1004": {
+        "name": "Sheraya",
+        "product": "Biscuits",
+        "qty": 2,
+        "price": 30.0,
+        "total": 60.0,
+        "status": "Placed"
+    },
+    "1005": {
+        "name": "Aman",
+        "product": "Cold Drink",
+        "qty": 5,
+        "price": 35.0,
+        "total": 175.0,
+        "status": "Placed"
+    },
+    "1006": {
+        "name": "Subham",
+        "product": "Chocolate",
+        "qty": 4,
+        "price": 50.0,
+        "total": 200.0,
+        "status": "Shipped"
+    },
+    "1007": {
+        "name": "Aditya",
+        "product": "Lassi",
+        "qty": 5,
+        "price": 15,
+        "total": 75,
+        "status": "Delivered"
+    }
+}
