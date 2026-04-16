@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Apple",
+        "price": 25.0,
+        "category": "Grocery"
+    },
+    {
+        "name": "Laptop",
+        "price": 50000.0,
+        "category": "Electronics"
+    },
+    {
+        "name": "Orange",
+        "price": 15.0,
+        "category": "Grocery"
+    },
+    {
+        "name": "Banana",
+        "price": 12.0,
+        "category": "Grocery"
+    },
+    {
+        "name": "Pen",
+        "price": 10.0,
+        "category": "Stationary"
+    },
+    {
+        "name": "Pencil",
+        "price": 5.0,
+        "category": "Stationary"
+    },
+    {
+        "name": "Notebook",
+        "price": 50.0,
+        "category": "Stationary"
+    },
+    {
+        "name": "Chips",
+        "price": 20.0,
+        "category": "Grocery"
+    },
+    {
+        "name": "Cold Drink",
+        "price": 40.0,
+        "category": "Grocery"
+    },
+    {
+        "name": "Chocolate",
+        "price": 25.0,
+        "category": "Grocery"
+    },
+    {
+        "name": "Candies",
+        "price": 5.0,
+        "category": "Grocery"
+    },
+    {
+        "name": "Biscuit",
+        "price": 15.0,
+        "category": "Grocery"
+    },
+    {
+        "name": "TV",
+        "price": 25000.0,
+        "category": "Electronics"
+    },
+    {
+        "name": "Washing Machine",
+        "price": 30000.0,
+        "category": "Electronics"
+    },
+    {
+        "name": "Fridge",
+        "price": 20000.0,
+        "category": "Electronics"
+    }
+]
